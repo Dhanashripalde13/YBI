@@ -1,7 +1,8 @@
 # YBI
 
 ## Movie Recommendation System
-###Python, Pandas, Machine Learning, NLP Technique
+Python, Pandas, Machine Learning, NLP Technique
+
 • Successfully developed a basic recommendation system using
   python and pandas by suggesting items that are most similar to a
   particular item, in this case, movies for given dataset
